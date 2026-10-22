@@ -1,4 +1,4 @@
-# Vision-Guided Robotic Manipulation
+# Robotic-Tower-of-Hanoi
 
 A vision-based pick-and-place project for **Caltech ME 235b**, implemented on a **Universal Robots UR10e** arm with a **Robotiq parallel-jaw gripper**. We used ArUco markers to locate blocks, calculate grasp poses, and attempt a three-block Tower of Hanoi.
 
